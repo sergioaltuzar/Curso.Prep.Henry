@@ -5,13 +5,37 @@ img {
     width: 400px;
 }
 #thirdDiv {
+    width: fit-content;
+    margin: 0 auto;
     height: 500px;
     width: 600px;
     background-color: aqua;
     padding: 50px;
     border: 10px solid red;
+    
+    
+
 }
 #spanId{
+    
     font-size: 18px;
     margin: 50px;
+   
+    
 }
+
+.divClass{
+    width: fit-content;
+    margin: 0 auto;
+    color: white; 
+}
+
+
+
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg");
+    background-size: 100%;
+}
+
+
+
